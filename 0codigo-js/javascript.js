@@ -1,9 +1,9 @@
 /* Lista de caminhos das minhas fotos. */
 const fotosTopo = [
-    '/0imagens/photo-output.jpeg',
-    '/0imagens/foto-filipe-espelho.png',
-    '/0imagens/foto-filipe-live.png',
-    '/0imagens/foto-filipe-selfie.png'
+    '/Atividade-Pagina-de-Portfolio/0imagens/photo-output.jpeg',
+    '/Atividade-Pagina-de-Portfolio/0imagens/foto-filipe-espelho.png',
+    '/Atividade-Pagina-de-Portfolio/0imagens/foto-filipe-live.png',
+    '/Atividade-Pagina-de-Portfolio/0imagens/foto-filipe-selfie.png'
 ];
 
 /* Contador que rastreia qual foto está sendo exibida (começa na posição 0). */
